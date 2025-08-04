@@ -5,6 +5,6 @@ public class Truck extends Machine{
         System.out.println("Truck started work");
     }
     public void stopWork(){
-        System.out.println("Truck stopped work:");
+        System.out.println("Truck stopped work");
     }
 }
